@@ -49,3 +49,9 @@ h1 {
     font-size: 20px;
     color: #333;
 }
+
+.updated-note {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 10px;
+}
