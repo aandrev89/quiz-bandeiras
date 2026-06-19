@@ -1,3 +1,4 @@
+// Projeto finalizado em 2026
 // Função para embaralhar o array de bandeiras ou opções usando o algoritmo Fisher-Yates
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
